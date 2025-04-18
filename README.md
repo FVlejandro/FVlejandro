@@ -52,6 +52,8 @@
   <img src="https://github.com/user-attachments/assets/a66e54d5-b106-4ee4-927f-35bc1a6354a0" width="40" height="40" title="NodeJS">
   &emsp;
   <img src="https://github.com/user-attachments/assets/5aee0b39-cd80-48c9-bbd6-c1e778e70c3d" width="40" height="40" title="NPM">
+  &emsp;
+  <img src="https://github.com/user-attachments/assets/387f9251-3f53-4aee-b12e-42783b189aea" width="40" height="40" title="Playwright">
 </p>
 
 <!-- CI/CD & DevOps -->
