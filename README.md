@@ -35,54 +35,76 @@
 
 <hr>
 
-<div align="center">
-  <h3>🧠 Stack Técnico</h3>
+<div align="left">
+  <h3>🔧 Herramientas que Utilizo </h3>
 </div>
 
-<h4 align="center">⚙️ QA & Automatización</h4>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/645dd589-c310-419f-8036-7be81836180c" alt="selenium" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/cucumber-1.svg" alt="cucumber" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+<!-- QA y Automatización -->
+<h4 align="left">⚙️ QA & Automatización</h4>
+<p align="left">
+  &emsp;
+  <img src="https://github.com/user-attachments/assets/645dd589-c310-419f-8036-7be81836180c" alt="selenium" width="40" height="40" title="Selenium"/>
+  &emsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/>
+  &emsp;
+  <img src="https://github.com/user-attachments/assets/d8108bd6-c868-4a05-9584-e3b500f6b8be" alt="jira" width="40" height="40" title="Jira"/>
+  &emsp;
+  <img src="https://github.com/user-attachments/assets/a66e54d5-b106-4ee4-927f-35bc1a6354a0" width="40" height="40" title="NodeJS">
+  &emsp;
+  <img src="https://github.com/user-attachments/assets/5aee0b39-cd80-48c9-bbd6-c1e778e70c3d" width="40" height="40" title="NPM">
 </p>
 
-<h4 align="center">☁️ CI/CD & DevOps</h4>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<!-- CI/CD & DevOps -->
+<h4 align="left">☁️ CI/CD & DevOps</h4>
+<p align="left">
+  &emsp;
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" title="Jenkins"/>
+  &emsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" title="Docker"/>
+  &emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" title="Git"/>
+  &emsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux"/>
+  &emsp;
 </p>
 
-<h4 align="center">💻 Lenguajes & Otros</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
+<!-- Lenguajes de Programación -->
+<h4 align="left">💻 Lenguajes de Programación</h4>
+<p align="left">
+  &emsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title="Java"/>
+  &emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" title="Bash"/>
+  &emsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
+  &emsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
+  &emsp;
 </p>
+
 
 <hr>
 
-<h2 align="center">🌐 Conéctate conmigo</h2>
 
-<p align="center">
+<h2 align="left">🌐 Conéctate conmigo</h2>
+
+<p align="left">
+  &emsp;
   <a href="https://www.linkedin.com/in/felipepavez97" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &emsp;
   <a href="https://github.com/FVlejandro" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
+  &emsp;
   <a href="mailto:felipealejandropavez.97@gmail.com">
-    <img src="https://github.com/user-attachments/assets/514701d7-6460-47d7-aa25-116a5b7fdb41" width="30" height="30" alt="Mail">
+    <img src="https://github.com/user-attachments/assets/514701d7-6460-47d7-aa25-116a5b7fdb41" width="40" height="40" alt="Mail">
   </a>
 </p>
+
+
+
 
 
 
