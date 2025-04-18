@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3>💼 Acerca de mí</h3>
+<h3 align="left">💼 Acerca de mí</h3>
 
 <p>
   Profesional con <strong>3 años de experiencia</strong> en testing manual y automatizado, trabajando en entornos ágiles.
@@ -23,7 +23,7 @@
 
 <hr>
 
-<h3>🎓 Formación Académica</h3>
+<h3 align="left">🎓 Formación Académica</h3>
 
 <p>
   📚 Mi formación formal es como Analista Programador, pero estoy en constante aprendizaje, perfeccionando habilidades técnicas y adoptando nuevas herramientas del mundo QA. Actualmente, mi objetivo es finalizar la Ingeniería en Informática para seguir creciendo como profesional y aportar con mayor impacto en los proyectos donde participo.
@@ -35,9 +35,9 @@
 
 <hr>
 
-<div align="left">
-  <h3>🔧 Herramientas que Utilizo </h3>
-</div>
+
+<h3 align="left">🔧 Herramientas que Utilizo </h3>
+
 
 <!-- QA y Automatización -->
 <h4 align="left">⚙️ QA & Automatización</h4>
