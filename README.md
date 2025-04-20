@@ -18,7 +18,9 @@
   <li>✅ Diseño e implementación de estrategias de testing manuales y automatizadas.</li>
   <li>✅ Colaboración constante con equipos multidisciplinarios en entornos Ágiles.</li>
   <li>✅ Testing manual y automatizado de APIRest con Postman, newman y bash Scripting.</li>
-  <li>✅ Testing manual y automatizado Web con Selenium y Java.</li>
+  <li>✅ Testing automatizado Web con Selenium y Java.</li>
+  <li>✅ Testing automatizado Web con Playwright y TypeScript</li>
+  <li>✅ Reportería con Allure.</li>
 </ul>
 
 <hr>
