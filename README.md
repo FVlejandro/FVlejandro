@@ -53,7 +53,9 @@
   &emsp;
   <img src="https://github.com/user-attachments/assets/5aee0b39-cd80-48c9-bbd6-c1e778e70c3d" width="40" height="40" title="NPM">
   &emsp;
-  <img src="https://github.com/user-attachments/assets/387f9251-3f53-4aee-b12e-42783b189aea" width="40" height="40" title="Playwright">
+  <img src="https://playwright.dev/python/img/playwright-logo.svg" width="40" height="40" title="Playwright">
+  &emsp;
+  <img src="https://allurereport.org/svg/logo-report-sign.svg" width="40" height="40" title="AllureReport">
 </p>
 
 <!-- CI/CD & DevOps -->
@@ -82,6 +84,7 @@
   &emsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
   &emsp;
+  <img src="https://github.com/user-attachments/assets/805670f0-936f-4990-835d-3358985aa1fd" alt="typescript" width="40" height="40" title="TypeScript">
 </p>
 
 
