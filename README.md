@@ -18,7 +18,6 @@
   <li>✅ Diseño e implementación de estrategias de testing manuales y automatizadas.</li>
   <li>✅ Colaboración constante con equipos multidisciplinarios en entornos Ágiles.</li>
   <li>✅ Testing manual y automatizado de APIRest con Postman, newman y bash Scripting.</li>
-  <li>✅ Testing automatizado Web con Selenium y Java.</li>
   <li>✅ Testing automatizado Web con Playwright y TypeScript</li>
   <li>✅ Reportería con Allure.</li>
 </ul>
@@ -44,8 +43,6 @@
 <!-- QA y Automatización -->
 <h4 align="left">⚙️ QA & Automatización</h4>
 <p align="left">
-  &emsp;
-  <img src="https://github.com/user-attachments/assets/645dd589-c310-419f-8036-7be81836180c" alt="selenium" width="40" height="40" title="Selenium"/>
   &emsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/>
   &emsp;
