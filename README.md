@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Felipe Castillo Pavez - QA Analyst 🧪</h1>
+<h1 align="center">👨‍💻 Felipe Castillo Pavez - QA Engineer 🧪</h1>
 
 <hr>
 
